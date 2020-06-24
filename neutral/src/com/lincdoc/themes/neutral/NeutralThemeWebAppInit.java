@@ -30,7 +30,7 @@ public class NeutralThemeWebAppInit implements WebAppInit {
 	
 	private final static String THEME_NAME = "neutral";
 	private final static String THEME_DISPLAY_NAME = "Neutral";
-	private final static int THEME_PRIORITY = 300;
+	private final static int THEME_PRIORITY = 900;
 	
 	public void init(WebApp webapp) throws Exception {
 		if (webapp.getConfiguration().getThemeProvider() == null)

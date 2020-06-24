@@ -11,4 +11,9 @@
 	<listener>
 		<listener-class>com.lincdoc.themes.neutral.NeutralThemeWebAppInit</listener-class>
 	</listener>
+
+	<library-property>
+		<name>org.zkoss.theme.preferred</name>
+		<value>neutral</value>
+	</library-property>
 </config>
