@@ -1,0 +1,14 @@
+<language-addon>
+	<addon-name>neutral</addon-name>
+	<depends>zul</depends>
+	<language-name>xul/html</language-name>
+
+	<stylesheet href="~./neutral/theme-reset.css.dsp" type="text/css"/>
+	<stylesheet href="~./neutral/theme-background.css.dsp" type="text/css"/>
+
+	<version>
+		<version-class>com.lincdoc.themes.neutral.Version</version-class>
+		<version-uid>2.0.0</version-uid>
+	</version>
+
+</language-addon>

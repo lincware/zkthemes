@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config>
+	<config-name>neutral</config-name><!-- used to resolve dependency -->
+	<depends>zul</depends>
+	<version>
+		<version-class>com.lincdoc.themes.neutral.Version</version-class>
+		<version-uid>2.0.0</version-uid>
+	</version>
+	
+	<listener>
+		<listener-class>com.lincdoc.themes.neutral.NeutralThemeWebAppInit</listener-class>
+	</listener>
+</config>
